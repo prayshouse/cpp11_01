@@ -1,0 +1,5 @@
+﻿  源.cpp
+e:\workspace_c\cpp11_01\cpp11_initializer_list\源.cpp(42): warning C4838: 从“double”转换到“float”需要收缩转换
+e:\workspace_c\cpp11_01\cpp11_initializer_list\源.cpp(42): warning C4305: “初始化”: 从“double”到“float”截断
+  cpp11_initializer_list.vcxproj -> E:\workspace_c\cpp11_01\Debug\cpp11_initializer_list.exe
+  cpp11_initializer_list.vcxproj -> E:\workspace_c\cpp11_01\Debug\cpp11_initializer_list.pdb (Partial PDB)

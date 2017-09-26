@@ -1,0 +1,4 @@
+﻿  源.cpp
+e:\workspace_c\cpp11_01\cpp11_constexpr\源.cpp(10): warning C4101: “a”: 未引用的局部变量
+  cpp11_constexpr.vcxproj -> E:\workspace_c\cpp11_01\Debug\cpp11_constexpr.exe
+  cpp11_constexpr.vcxproj -> E:\workspace_c\cpp11_01\Debug\cpp11_constexpr.pdb (Partial PDB)
